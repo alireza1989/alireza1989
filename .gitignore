@@ -36,3 +36,13 @@
 ehthumbs.db
 Thumbs.db
 .ipynb_checkpoints
+
+# key files          #  
+######################
+keys.json
+
+# Terraform files    #  
+######################
+.terraform
+*.tfstate
+*.tfstate.backup
